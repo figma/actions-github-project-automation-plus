@@ -29,7 +29,7 @@
 	"homepage": "https://github.com/alex-page/github-project-automation-plus#readme",
 	"dependencies": {
 		"@actions/core": "^1.2.7",
-		"@actions/github": "^2.1.1"
+		"@actions/github": "^6.0.0"
 	},
 	"devDependencies": {
 		"@vercel/ncc": "^0.28.4",
